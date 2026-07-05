@@ -1,6 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" width="75%" style="border-radius: 15px;"/>
+  <!-- Changed to height="300" so it shrinks perfectly without distorting -->
+  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" height="300" style="border-radius: 15px;"/>
 </div>
 
 <p align="center">
@@ -125,11 +126,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <!-- Switched to reliable backup server to fix broken images -->
+  <img src="https://readme-stats-jigish14.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://readme-stats-jigish14.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
 <br/>
