@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" style="width: 100%; height: 250px; object-fit: cover; border-radius: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" style="width: 100%; height: 250px; border-radius: 15px;"/>
 </div>
 
 <p align="center">
