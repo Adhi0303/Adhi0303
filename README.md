@@ -112,7 +112,7 @@
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <!-- LEFT SIDE: Your New GIF -->
+      <!-- LEFT SIDE: Your Vertical GIF -->
       <td width="35%" align="center" style="border: none;">
         <img src="https://github.com/user-attachments/assets/40a4f960-82f0-478d-a1c1-2e94fecfe5d0" alt="Activity GIF" width="100%" style="border-radius: 10px;" />
       </td>
