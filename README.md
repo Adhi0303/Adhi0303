@@ -1,13 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/hacker.gif" alt="Hacker Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" width="100%" style="border-radius: 15px;"/>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adhi0303&label=Profile%20Views&color=0e75b6&style=flat" alt="Views"/>
 </p>
 
-<!-- Emojis removed from the URL parameters so GitHub Camo doesn't crash -->
 <p align="center">
   <a href="https://github.com/Adhi0303">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Full-Stack+AI+Developer;Machine+Learning+Engineer;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -19,19 +18,6 @@
   <a href="https://linkedin.com/in/Adhi0303"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://adarshdrome.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Adhi0303?tab=followers"><img src="https://img.shields.io/github/followers/Adhi0303?style=for-the-badge&color=000000&logo=github" /></a>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adhi0303&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
 </p>
 
 <br/>
@@ -123,13 +109,31 @@
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- LEFT SIDE: Your New GIF -->
+      <td width="35%" align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/40a4f960-82f0-478d-a1c1-2e94fecfe5d0" alt="Activity GIF" width="100%" style="border-radius: 10px;" />
+      </td>
+      
+      <!-- RIGHT SIDE: The GitHub Stats -->
+      <td width="65%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" style="margin-bottom: 15px;" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="100%" style="margin-bottom: 15px;" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION (Full width below the table) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="48%" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
 </p>
 
 <br/>
