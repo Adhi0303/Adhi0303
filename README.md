@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" width="75%" style="border-radius: 15px;"/>
 </div>
 
 <p align="center">
@@ -112,18 +112,11 @@
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <!-- LEFT SIDE: Your Vertical GIF -->
-      <td width="35%" align="center" style="border: none;">
-        <img src="https://github.com/user-attachments/assets/40a4f960-82f0-478d-a1c1-2e94fecfe5d0" alt="Activity GIF" width="100%" style="border-radius: 10px;" />
+      <td width="30%" align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/40a4f960-82f0-478d-a1c1-2e94fecfe5d0" alt="Iron Man" width="100%" style="border-radius: 10px;" />
       </td>
-      
-      <!-- RIGHT SIDE: The GitHub Stats -->
-      <td width="65%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" style="margin-bottom: 15px;" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="100%" style="margin-bottom: 15px;" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+      <td width="70%" align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
       </td>
     </tr>
   </table>
@@ -131,9 +124,12 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION (Full width below the table) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
 <br/>
