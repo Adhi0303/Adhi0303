@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Adhi0303">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Full-Stack+AI+Developer+👨‍💻;Machine+Learning+Engineer+🧠;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Full-Stack+AI+Developer+👨‍💻;Machine+Learning+Engineer+🧠;Always+Learning+New+Tech+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adhi0303&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Adhi0303&theme=radical&no-frame=true&no-bg=true&margin-w=15&cache_seconds=86400" alt="Trophies" />
   </a>
 </p>
 
@@ -123,18 +123,13 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <!-- Optional Spotify playing widget -->
-  <img src="https://novatorem-readme-spotify.vercel.app/api?theme=tokyonight" alt="Spotify Playing" width="48%" />
-</p>
-
-<!-- The Snake animation requires setting up a GitHub Action to generate the SVG. Once you set it up, the image will appear here! -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
+  <!-- The Snake animation requires setting up the GitHub Action. Once set up, it will appear here! -->
+  <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="48%" onerror="this.style.display='none'" />
 </p>
 
 <br/>
