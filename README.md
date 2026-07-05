@@ -1,7 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <!-- Changed to height="300" so it shrinks perfectly without distorting -->
-  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" height="300" style="border-radius: 15px;"/>
+  <img src="https://github.com/user-attachments/assets/bb6f2142-4c5a-46d3-8746-549d798e762a" alt="Header Banner" style="width: 100%; height: 250px; object-fit: cover; border-radius: 15px;"/>
 </div>
 
 <p align="center">
