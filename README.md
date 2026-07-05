@@ -126,13 +126,13 @@
 <br/>
 
 <p align="center">
-  <!-- Switched to reliable backup server to fix broken images -->
   <img src="https://readme-stats-jigish14.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 <p align="center">
   <img src="https://readme-stats-jigish14.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
+
 
 <br/>
 
