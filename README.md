@@ -58,7 +58,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,py,postgres,mongodb,sqlite,firebase,supabase" /></a>
   
   <h3>🤖 AI, ML & Tools</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,bash,aws,gcp" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv,docker,git" /></a>
 </div>
 
 <br/>
