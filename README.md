@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Adhi0303">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Full-Stack+AI+Developer;Machine+Learning+Engineer;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Full-Stack+AI+Developer;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing Intro"/>
   </a>
 </p>
 
@@ -117,7 +117,7 @@
         <img src="https://github.com/user-attachments/assets/40a4f960-82f0-478d-a1c1-2e94fecfe5d0" alt="Iron Man" width="100%" style="border-radius: 10px;" />
       </td>
       <td width="70%" align="center" style="border: none;">
-        <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
+        <img src="https://raw.githubusercontent.com/Adhi0303/Adhi0303/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
       </td>
     </tr>
   </table>
@@ -126,11 +126,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-stats-jigish14.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhi0303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Adhi0303&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 <p align="center">
-  <img src="https://readme-stats-jigish14.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
 
